@@ -1,0 +1,2 @@
+# Add the Python packages required by Project 3 here.
+# Pin package versions after the numerical workflow has been implemented and verified.
